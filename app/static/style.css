@@ -1,0 +1,33 @@
+.content {
+    display: flex;
+    flex-direction: row;
+}
+
+.params__container > form {
+    display: flex;
+    flex-direction: column;
+}
+
+.params__container {
+    width: 50%;
+}
+
+.enquiry__continer {
+    background-color: aqua;
+    width: 50%;
+}
+
+@media screen and (max-width: 400px) {
+    .content {
+        flex-direction: column;
+    }
+    .params__container {
+        width: 100%;
+    }
+    
+    .enquiry__continer {
+        background-color: aqua;
+        width: 100%;
+    }
+}
+    
