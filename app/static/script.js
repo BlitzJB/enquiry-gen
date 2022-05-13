@@ -56,7 +56,7 @@ I have attached the Singapore Maths course details for your reference below,
 • Weekly - one class 1 hrs 
 • One level fees - ₹6000/-
 • Registration - ₹1000/ - (one time payment)
-• Book fees - ₹200/- one level book
+• Book fees will be included
 • Currently 50% offer is underway. This is applicable for your first level. First level now will be ₹3000/-.
 
 `
